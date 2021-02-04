@@ -54,3 +54,13 @@ div {
     text-shadow: 4px, 4px, 2px;
     text-shadow: #c7e2c7;
 }
+
+#green {
+    color: #008000;
+    text-align: left;
+}
+
+footer p {
+    text-align: center;
+    padding: 0px, 10px, 10px, 0px;
+}
